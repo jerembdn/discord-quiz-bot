@@ -1,0 +1,8 @@
+{
+  "name": "discord-quiz-bot",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:3DX900/discord-quiz-bot.git",
+  "author": "Jérèm <3DX900@gmail.com>",
+  "license": "GPL"
+}
